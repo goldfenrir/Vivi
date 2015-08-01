@@ -16,6 +16,14 @@ using namespace std;
 int main(int argc, char** argv) {
     cout<<"Hola Dieguito :)"<<endl;
     cout<<"Regalame un poco de tu inteligencia"<<endl;
+    
+    
+    
+    
+    
+    
+    
+    cout<<"Hola Vanesita :)"<<endl;
     return 0;
 }
 
